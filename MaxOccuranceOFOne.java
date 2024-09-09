@@ -36,6 +36,7 @@ class MaxOccuranceOFOne{
             ans=Math.max(ans,right-left+1);
         }
         System.err.println(ans);
+        System.out.println(Integer.MIN_VALUE);
         
     }
 }
